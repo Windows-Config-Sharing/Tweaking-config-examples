@@ -14,7 +14,7 @@ The files show different combinations of settings that users have tested on thei
 Before using any of these files, it is recommended to review the content carefully and test it on your own system to see how it affects your specific setup.
 
 <div align="center">
-  <a href="#" target="_blank" rel="noopener">
+  <a href="https://windows-config-sharing.github.io/Tweaking-config-examples/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
